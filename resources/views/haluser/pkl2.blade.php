@@ -199,7 +199,7 @@
                                 <i class="flaticon-restaurant"></i>
                             </div>
                             <h2>Ruang kelas</a></h2>
-                            <p>150 listings</p>
+                            {{-- <p>150 listings</p> --}}
                         </div>
                     </li>
                     <li>
@@ -208,7 +208,7 @@
                                 <i class="flaticon-travel"></i>
                             </div>
                             <h2>Kurikulum</a></h2>
-                            <p>214 listings</p>
+                            {{-- <p>214 listings</p> --}}
                         </div>
                     </li>
                     <li>
@@ -217,7 +217,7 @@
                                 <i class="flaticon-building"></i>
                             </div>
                             <h2>Literasi</a></h2>
-                            <p>185 listings</p>
+                            {{-- <p>185 listings</p> --}}
                         </div>
                     </li>
                     <li>
@@ -226,7 +226,7 @@
                                 <i class="flaticon-pills"></i>
                             </div>
                             <h2>Alumni</a></h2>
-                            <p>200 listings</p>
+                            {{-- <p>200 listings</p> --}}
                         </div>
                     </li>
                     <li>
@@ -235,7 +235,7 @@
                                 <i class="flaticon-transport"></i>
                             </div>
                             <h2>Penghargaan</a></h2>
-                            <p>120 listings</p>
+                            {{-- <p>120 listings</p> --}}
                         </div>
                     </li>
                 </ul>
